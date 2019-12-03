@@ -1,6 +1,9 @@
 .idea
 venv/
+<<<<<<< HEAD
 db.sqlite3
 migrations/
 __pycache__/
 node_modules/
+=======
+>>>>>>> parent of e7e06c9... rental_app models registered in admin site
